@@ -1,2 +1,2 @@
 # petclinic-selenium
-selenium test cases for petclinic project
+selenium test cases for petclinic project project
